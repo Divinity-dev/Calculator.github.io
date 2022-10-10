@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-color:black;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+h1{
+    color: goldenrod;
+    margin-bottom: 60px;
+}
+.inp{
+    display: flex;
+    margin-bottom: 60px;
+}
+.inp div{
+    margin-left: 20px;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-bottom: 60px;
+}
+#add{
+    padding: 10px 20px;
+}
+span{
+    color: goldenrod;
+}
+
